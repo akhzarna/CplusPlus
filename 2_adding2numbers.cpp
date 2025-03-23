@@ -2,7 +2,6 @@
 using namespace std;
 
 int main() {
-
     int number1, number2, sum;
     cout<<"Enter firt Number"<<endl;
     cin>>number1;
@@ -14,5 +13,4 @@ int main() {
     return 0;
     // +, -, *,/
     // 3 numbers ko Mul, Div, Add, Sub
-
 }
